@@ -3,7 +3,7 @@
 
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("Onetap remake| Arsenal | v1.1 ", "BlueTheme")
+local Window = Library.CreateLib("Onetap remake| Arsenal | ᴠ0.1 ", "BlueTheme")
 
 local Welcome = Window:NewTab("Main")
 local MainSection = Welcome:NewSection("Welcome To onetap remake| " .. game.Players.LocalPlayer.Name)
